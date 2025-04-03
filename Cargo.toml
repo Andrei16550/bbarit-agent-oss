@@ -1,0 +1,5 @@
+[package]
+name = "bbarit-agent-oss"
+version = "0.1.0"
+edition = "2021"
+description = "Open-source AI coding agent for your terminal — one Rust binary, 15+ LLM providers, 1,000+ models. A self-hostable Claude Code / Codex CLI alternative (MIT)."
