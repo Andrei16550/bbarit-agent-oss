@@ -8,3 +8,4 @@ build/
 tmp/
 .pytest_cache/
 coverage/
+.cache/
