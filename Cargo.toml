@@ -5,3 +5,4 @@ edition = "2021"
 description = "Open-source AI coding agent for your terminal — one Rust binary, 15+ LLM providers, 1,000+ models. A self-hostable Claude Code / Codex CLI alternative (MIT)."
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
+# match the style used in the rest of the module
