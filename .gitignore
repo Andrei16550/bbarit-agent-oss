@@ -10,3 +10,4 @@ tmp/
 coverage/
 .cache/
 *.tmp
+*.bak
